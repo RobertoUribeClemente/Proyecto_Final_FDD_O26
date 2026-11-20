@@ -4,7 +4,8 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 authors = [
-    { name = "Natalia Agredo", email = "nat.aglo2020@gmail.com" }
+    { name = "Natalia Agredo", email = "nat.aglo2020@gmail.com" },
+    { name = "Roberto Uribe", email = "joserobertouribeclemente@gmail.com" }
 ]
 requires-python = ">=3.13"
 dependencies = []
